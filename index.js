@@ -1,0 +1,1 @@
+exports.RingHttpServer = require('./lib/ring-http-server-hook.js');

@@ -1,0 +1,20 @@
+{
+	"author": "Jeremy Martin <jeremy.martin@sparcedge.com>",
+	"name": "hook.io-ring-http-server",
+	"description": "Hook.io hook for facilitating easy horizontal distribution off http servers, with client-server orchestration powered by hook.io-ring.",
+	"version": "0.1.0-unstable",
+	"repository": {
+		"type" : "git",
+		"url" : "git://github.com/sparcedge/hook.io-ring-http-server.git"
+	},
+	"main": "lib/index.js",
+	"dependencies": {
+		
+	},
+	"devDependencies": {
+		"mocha": ">=0.3.6"
+	},
+	"engines": {
+		"node": ">=0.6.0"
+	}
+}
