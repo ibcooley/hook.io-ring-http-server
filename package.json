@@ -9,10 +9,7 @@
 	},
 	"main": "lib/index.js",
 	"dependencies": {
-		
-	},
-	"devDependencies": {
-		"mocha": ">=0.3.6"
+		"hook.io-ring": "git://github.com/sparcedge/hook.io-ring.git#3b2ca43eefd5e396197eb15fccd0246c1eca9a5b"
 	},
 	"engines": {
 		"node": ">=0.6.0"
