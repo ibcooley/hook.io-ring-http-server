@@ -9,7 +9,7 @@
 	},
 	"main": "lib/index.js",
 	"dependencies": {
-		"hook.io-ring": "git://github.com/sparcedge/hook.io-ring.git#ce76a526d631ab8e96813dd646cb80e720049b02"
+		"hook.io-ring": "git://github.com/sparcedge/hook.io-ring.git#130d8e5902c62d1e577b9e9d8a814af444cb4f9c"
 	},
 	"engines": {
 		"node": ">=0.6.0"
